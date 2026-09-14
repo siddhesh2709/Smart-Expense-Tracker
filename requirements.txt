@@ -1,0 +1,14 @@
+# Smart Expense Tracker — Requirements
+
+# This project uses only Python's standard library.
+# No third-party packages are required.
+#
+# Python version: 3.8 or higher
+#
+# Standard library modules used:
+#   json       — data serialisation and file storage
+#   os         — file system path resolution and directory creation
+#   uuid       — unique transaction ID generation
+#   datetime   — date parsing, formatting, and arithmetic
+#   unittest   — unit testing framework
+#   collections — defaultdict for aggregation in report_manager.py
